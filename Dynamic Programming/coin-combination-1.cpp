@@ -5,8 +5,6 @@ int MOD = 1e9 + 7;
 
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
     ll n, target;
     cin >> n >> target;
     vector<ll> coins(n);
